@@ -1,4 +1,3 @@
-```markdown
 # IA em Sala de Aula – Santander EducaIA  
 [assistido por IA]
 
@@ -129,6 +128,3 @@ Também se observou que a IA favorece o desenvolvimento do **pensamento crítico
 Como lição aprendida, destaca-se que o valor pedagógico da IA não está na ferramenta em si, mas na **intencionalidade didática** de seu uso. Sem objetivos claros e critérios éticos, a IA pode reforçar dependência cognitiva; com planejamento, ela se torna aliada da aprendizagem ativa, reflexiva e significativa.
 
 Por fim, este projeto evidencia que a integração da IA ao ensino superior é não apenas possível, mas desejável, desde que esteja comprometida com a formação crítica, humana e social do universitário — especialmente em áreas como a Contabilidade, cuja evolução histórica demonstra que tecnologia e conhecimento sempre caminharam juntos.
-```
-
-Se quiser, posso **adaptar o README** para inglês, ajustar ao **template oficial do GitHub**, ou alinhar o texto ao **formato exigido pelo Santander EducaIA**.
