@@ -1,11 +1,124 @@
-# IA em Sala de Aula – Santander EducaIA  
-[assistido por IA]
+# IA em Sala de Aula – Santander EducaIA
 
-## 📌 Descrição do Projeto e do Desafio  
-[assistido por IA]
+## Descrição do Projeto e do Desafio  
+[Assistido por IA]  
+Este projeto apresenta a aplicação responsável de **Inteligência Artificial (IA)** no planejamento, desenvolvimento e apoio à aula universitária da disciplina **Teoria da Contabilidade (5º semestre)**, com foco no tema **Evolução Histórica da Contabilidade**.  
+O desafio consistiu em integrar IA como ferramenta pedagógica, garantindo **qualidade didática, ética, transparência e personalização**, sem uso de dados pessoais, e mantendo a centralidade da mediação docente.
 
-Este repositório apresenta um projeto educacional que integra **Inteligência Artificial (IA) ao ensino universitário**, aplicado à disciplina **Teoria da Contabilidade (5º semestre)**, com foco no tema **Evolução Histórica da Contabilidade**.  
-
-O desafio consistiu em **planejar, estruturar e aplicar uma aula de 90 minutos**, utilizando IA de forma **pedagogicamente intencional, ética e transparente**, promovendo aprendizagem significativa, inclusão acadêmica e diferenciação didática, sem substituir o papel do professor.
+> **Comentário de transparência (IA):** A IA foi utilizada para estruturar conteúdos, propor metodologias, apoiar revisão linguística e sugerir adaptações pedagógicas. Todo o material passou por **revisão crítica humana**, com ajustes de linguagem, conteúdo e adequação ao nível do 5º semestre.
 
 ---
+
+## Resumo do Plano de Aula  
+[Assistido por IA]  
+
+### Contexto  
+A aula aborda a evolução histórica da Contabilidade como base para a compreensão de seus conceitos, funções sociais e técnicas contemporâneas.
+
+### Objetivos de Aprendizagem  
+Ao final da aula, **o universitário será capaz de**:  
+- Identificar os principais períodos históricos da Contabilidade;  
+- Relacionar a evolução histórica às práticas contábeis atuais;  
+- Analisar criticamente o papel social da Contabilidade ao longo do tempo.
+
+### Metodologia  
+- Exposição dialogada com apoio de slides;  
+- Leitura orientada de textos curtos;  
+- Atividade prática em grupo com linha do tempo histórica;  
+- Discussão guiada e sistematização final.
+
+### Avaliação  
+- Avaliação formativa contínua;  
+- Exercício individual e atividade em grupo;  
+- Rubrica com critérios claros (Excelente, Bom, A melhorar).
+
+> **Comentário de transparência (IA):** A estrutura metodológica e os objetivos foram inicialmente sugeridos pela IA e validados pelo docente, garantindo coerência pedagógica e alinhamento ao plano da disciplina.
+
+---
+
+## Ferramentas de IA Utilizadas  
+[Assistido por IA]  
+
+- **ChatGPT**  
+  - Geração inicial do plano de aula;  
+  - Criação de textos didáticos, exercícios e rubricas;  
+  - Apoio à adaptação para diferentes perfis de universitários;  
+  - Tradução e revisão linguística (internacionalização – CEFR A2).
+
+- **Copilot no PowerPoint**  
+  - Geração da apresentação visual da aula (.pptx);  
+  - Organização de tópicos, linha do tempo histórica e sínteses visuais.
+
+> **Comentário de transparência (IA):** A IA atuou como ferramenta de apoio. A seleção final, ajustes conceituais e validação didática foram realizados pelo professor responsável.
+
+---
+
+## Personalização para Dois Perfis de Universitários  
+[Assistido por IA]  
+
+- **Perfil A – Dificuldade de leitura**  
+  - Linguagem simplificada;  
+  - Instruções passo a passo;  
+  - Apoio visual reforçado;  
+  - Tempo adicional para atividades e avaliação.
+
+- **Perfil B – Alto interesse / Avançado**  
+  - Desafios de extensão;  
+  - Problemas contextualizados com a prática contábil contemporânea;  
+  - Conexões críticas entre história da contabilidade e normas atuais.
+
+> **Comentário de transparência (IA):** As adaptações foram propostas pela IA com base em princípios de educação inclusiva e diferenciação pedagógica, sendo ajustadas pelo docente conforme a realidade da turma.
+
+---
+
+## Internacionalização  
+[Assistido por IA]  
+
+- **Idioma:** Inglês  
+- **Nível:** CEFR A2  
+- **Aplicação:** Um trecho do material foi revisado e traduzido para uso com universitários multilíngues, permitindo:  
+  - Introdução gradual de terminologia contábil em inglês;  
+  - Comparação de conceitos históricos em diferentes contextos culturais;  
+  - Apoio a programas de internacionalização e mobilidade acadêmica.
+
+> **Comentário de transparência (IA):** A tradução foi realizada com IA e revisada pelo docente para garantir clareza, simplicidade linguística e fidelidade conceitual.
+
+---
+
+## Estrutura de Arquivos do Repositório  
+
+- `Plano_de_Aula_IA.docx` – Plano de aula completo com rubrica, materiais e transparência  
+- `Apresentacao_Aula_IA.pptx` – Slides da aula gerados com apoio do Copilot  
+- `Reflexao_IA.pdf` – Reflexão crítica sobre o uso da IA no projeto  
+
+---
+
+## Checklist de Envio  
+- [x] Plano de aula completo com seções e marcações [Assistido por IA]  
+- [x] Materiais didáticos (textos, exercícios e atividade em grupo)  
+- [x] Adaptação para dois perfis de universitários  
+- [x] Trecho traduzido para inglês (CEFR A2)  
+- [x] Apresentação em `.pptx`  
+- [x] README.md com links e reflexão crítica  
+- [x] Conformidade com ética, privacidade e direitos autorais  
+
+---
+
+## Créditos  
+Projeto desenvolvido no contexto do **Santander EducaIA**, com autoria docente e apoio de ferramentas de Inteligência Artificial, utilizadas de forma ética, transparente e responsável.
+
+---
+
+## Reflexão Crítica sobre o Uso de IA no Projeto  
+[Assistido por IA]  
+
+O uso de Inteligência Artificial neste projeto evidenciou seu potencial como **ferramenta de apoio pedagógico**, e não como substituta da atuação docente. A principal contribuição observada foi o **ganho de tempo** na estruturação inicial do plano de aula, na organização de conteúdos e na proposição de metodologias ativas. Esse ganho permitiu ao professor concentrar-se em tarefas de maior valor pedagógico, como a adequação ao perfil da turma, a curadoria conceitual e a reflexão crítica sobre os objetivos de aprendizagem.
+
+Outro aspecto relevante foi a **personalização do ensino**. A IA facilitou a proposição de adaptações concretas para universitários com diferentes níveis de leitura e engajamento, algo que, sem apoio tecnológico, demandaria maior esforço e tempo. Essa possibilidade reforça o papel da IA como aliada da educação inclusiva, desde que utilizada com intencionalidade pedagógica clara.
+
+No campo ético, o projeto demonstrou que é possível empregar IA sem riscos à privacidade, uma vez que não foram utilizados dados pessoais ou sensíveis. A preocupação com direitos autorais também se mostrou central, especialmente na orientação para o uso de textos, imagens e materiais com licenças adequadas. A marcação explícita de trechos [Assistido por IA] contribuiu para a **transparência acadêmica**, permitindo que estudantes e avaliadores compreendam onde e como a tecnologia foi utilizada.
+
+Entretanto, o uso da IA exige **letramento crítico** por parte do docente. As respostas geradas precisam ser analisadas, revisadas e, quando necessário, corrigidas. A IA não garante, por si só, rigor conceitual ou adequação didática. Nesse sentido, a revisão humana foi essencial para assegurar alinhamento ao nível do 5º semestre de Ciências Contábeis e à ementa da disciplina.
+
+Como lição aprendida, destaca-se que a IA é mais eficaz quando integrada a um projeto pedagógico bem definido, com objetivos claros e critérios de avaliação transparentes. Seu uso responsável amplia possibilidades, mas reforça a importância do professor como mediador, curador do conhecimento e agente ético do processo educacional.
+
