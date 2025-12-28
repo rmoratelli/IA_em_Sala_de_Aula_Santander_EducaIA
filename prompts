@@ -1,149 +1,102 @@
-# IA em Sala de Aula – Santander EducaIA  
-## Evolução Histórica da Contabilidade (Teoria da Contabilidade – 5º semestre)
+# IA em Sala de Aula – Evolução Histórica da Contabilidade  
+[assistido por IA]
 
-[Assistido por IA]
-
----
-
-## 📘 Descrição do Projeto e do Desafio
-
-Este repositório documenta um projeto educacional que integra **Inteligência Artificial (IA)** ao planejamento, execução e avaliação de uma aula universitária de **Teoria da Contabilidade**, com foco no tema **“Evolução Histórica da Contabilidade”**, destinada a estudantes do **5º semestre**.  
-
-O desafio central consiste em **utilizar ferramentas de IA de forma ética, transparente e pedagógica**, apoiando o professor no design instrucional, na personalização do ensino, na internacionalização do conteúdo e na produção de materiais didáticos, sem substituir a mediação docente nem comprometer autoria, privacidade ou rigor acadêmico.
-
-[Assistido por IA]
+## 📘 Descrição do Projeto e do Desafio  
+[assistido por IA]  
+Este repositório apresenta um projeto educacional voltado ao uso ético e pedagógico da Inteligência Artificial (IA) no ensino universitário. O desafio consiste em planejar, estruturar e documentar uma aula completa da disciplina **Teoria da Contabilidade (5º semestre)**, com foco no tema **Evolução Histórica da Contabilidade**, integrando IA como ferramenta de apoio ao professor, sem substituir a mediação humana, garantindo transparência, autoria e adequação didática.
 
 ---
 
-## 🧭 Resumo do Plano de Aula
+## 🧭 Resumo do Plano de Aula  
+[assistido por IA]
 
-### Contexto  
-A aula foi planejada para uma turma de **20 universitários**, com duração de **90 minutos**, inserida na disciplina de Teoria da Contabilidade. O conteúdo aborda a evolução da contabilidade desde as civilizações antigas até o pensamento contábil contemporâneo, conectando história, teoria e prática profissional.
+**Contexto:**  
+A aula foi planejada para uma turma de 20 universitários do 5º semestre, com duração de 90 minutos, considerando conhecimentos prévios introdutórios em contabilidade e foco na compreensão histórica e conceitual da área.
 
-[Assistido por IA]
+**Objetivos de Aprendizagem:**  
+Ao final da aula, o universitário será capaz de identificar, explicar e relacionar os principais marcos da evolução histórica da Contabilidade, desde as civilizações antigas até a contabilidade contemporânea.
 
-### Objetivos de Aprendizagem  
-Ao final da aula, o universitário será capaz de:
-- Identificar os principais períodos históricos da Contabilidade;
-- Relacionar a evolução histórica com o desenvolvimento do pensamento contábil;
-- Analisar criticamente a influência do contexto social, econômico e tecnológico na Contabilidade.
+**Metodologia:**  
+A metodologia combina exposição dialogada, leitura orientada, atividade prática em grupo e uso pontual de IA para apoio à organização do conteúdo e personalização das atividades.
 
-[Assistido por IA]
-
-### Metodologia  
-- Aula dialogada com apoio de slides;
-- Leitura orientada de textos curtos;
-- Exercício individual e atividade prática em grupo;
-- Uso pontual de IA para apoio à organização do conteúdo, exemplos e internacionalização.
-
-[Assistido por IA]
-
-### Avaliação  
-- Avaliação formativa durante a aula;
-- Exercício com questões objetivas e discursivas;
-- Rubrica com critérios de desempenho (Excelente, Bom, A melhorar), garantindo clareza e transparência.
-
-[Assistido por IA]
+**Avaliação:**  
+A avaliação é formativa, baseada em participação, exercício individual e atividade em grupo, utilizando rubrica com critérios claros e níveis de desempenho.
 
 ---
 
-## 🤖 Ferramentas de IA Utilizadas
+## 🤖 Ferramentas de IA Utilizadas  
+[assistido por IA]
 
 - **ChatGPT**:  
-  - Apoio à elaboração do plano de aula, materiais didáticos, exercícios, rubrica, adaptações pedagógicas e reflexão crítica.  
-  - Uso sempre acompanhado de **revisão humana**, adequação ao nível do 5º semestre e checagem conceitual.
+  - Apoio na elaboração do plano de aula, materiais didáticos, exercícios, rubrica, adaptações para diferentes perfis de universitários e reflexão crítica.
+- **Copilot no PowerPoint**:  
+  - Apoio na estruturação visual da apresentação (.pptx), organização dos slides e síntese dos conteúdos do plano de aula.
 
-- **Copilot / PowerPoint**:  
-  - Apoio à geração da apresentação (.pptx), organização visual dos conteúdos e estruturação dos slides.  
-  - Revisão humana aplicada para adequação didática e correção terminológica.
-
-[Assistido por IA]
+> Observação: todo o conteúdo gerado com apoio de IA passou por **revisão humana**, adequação pedagógica e validação conceitual.
 
 ---
 
-## 🎯 Personalização para Dois Perfis de Universitários
+## 🎯 Personalização para Diferentes Perfis de Universitários  
+[assistido por IA]
 
-### Perfil A – Dificuldade de Leitura  
-- Linguagem simplificada e instruções passo a passo;  
-- Apoio visual ampliado;  
-- Tempo adicional para atividades;  
-- Avaliação adaptada, priorizando compreensão conceitual.
-
-### Perfil B – Interesse Avançado  
-- Desafios de extensão;  
-- Problemas contextualizados e análise crítica;  
-- Conexão entre evolução histórica e práticas contábeis atuais;  
-- Avaliação com maior nível de complexidade analítica.
-
-[Assistido por IA]
+- **Perfil A – Dificuldade de leitura:**  
+  - Linguagem simplificada, instruções passo a passo, apoio visual extra e tempo adicional para atividades.
+- **Perfil B – Universitários avançados:**  
+  - Desafios de extensão, análises críticas, conexão com normas contábeis e problematizações sobre a evolução histórica da contabilidade.
 
 ---
 
-## 🌍 Internacionalização do Conteúdo
+## 🌍 Internacionalização do Conteúdo  
+[assistido por IA]
 
-- Tradução de um trecho do material para **Inglês – CEFR A2**;  
-- Uso didático voltado a universitários multilíngues;  
-- Estratégia de comparação conceitual entre idiomas, sem perda de rigor acadêmico.
-
-[Assistido por IA]
+- **Idioma:** Inglês  
+- **Nível:** CEFR A2  
+- **Aplicação:** Um trecho do material foi revisado e traduzido para apoiar universitários multilíngues, possibilitando leitura comparada, glossário bilíngue e discussões conceituais em língua estrangeira.
 
 ---
 
-## 📂 Estrutura e Links do Repositório
+## 📂 Estrutura de Arquivos  
+[assistido por IA]
 
 - 📄 **Plano_de_Aula_IA.docx**  
 - 📊 **Apresetacao_Aula_IA.pptx**  
-- 📑 **Reflexa_IA.pdf**
+- 📘 **Reflexa_IA.pdf**
 
-> *Os arquivos devem ser mantidos com estes nomes para fins de padronização e submissão.*
-
-[Assistido por IA]
+> Os arquivos devem ser inseridos neste repositório conforme os nomes acima para manter a padronização do projeto.
 
 ---
 
-## ✅ Checklist de Envio
+## ✅ Checklist de Envio  
+[assistido por IA]
 
-- [x] Plano de aula completo com seções e sinalização [Assistido por IA]  
-- [x] Materiais didáticos (textos, exercício e atividade em grupo)  
+- [x] Plano de aula completo com seções e marcação [Assistido por IA]  
+- [x] Materiais didáticos (textos, exercícios e atividade em grupo)  
 - [x] Adaptação para dois perfis de universitários  
 - [x] Tradução de trecho (Inglês – CEFR A2)  
-- [x] Apresentação .pptx gerada  
+- [x] Apresentação em .pptx  
 - [x] README.md com links e reflexão crítica  
-- [x] Conformidade com privacidade, autoria e ética  
 - [x] Rubrica de avaliação incluída  
-
-[Assistido por IA]
-
----
-
-## 👥 Créditos
-
-Projeto desenvolvido por docente universitário da área de Contabilidade, com apoio de ferramentas de Inteligência Artificial generativa, utilizadas de forma ética, transparente e com revisão humana integral.
-
-[Assistido por IA]
+- [x] Conformidade com ética, privacidade e autoria  
 
 ---
 
-## 🧠 Reflexão Crítica sobre o Uso de IA no Projeto (400–600 palavras)
+## ✍️ Reflexão Crítica sobre o Uso de IA no Projeto  
+[assistido por IA]
 
-O uso de Inteligência Artificial neste projeto evidenciou seu potencial como **ferramenta de apoio pedagógico**, e não como substituta do professor. A IA contribuiu significativamente para a **otimização do tempo**, especialmente nas etapas de organização do plano de aula, estruturação de materiais didáticos e elaboração de instrumentos avaliativos. Tarefas que tradicionalmente demandariam horas de trabalho puderam ser realizadas de forma mais ágil, permitindo ao docente concentrar-se na curadoria, na contextualização e na mediação pedagógica.
+O uso da Inteligência Artificial neste projeto evidenciou seu potencial como ferramenta de apoio ao trabalho docente, especialmente no planejamento didático e na organização de conteúdos complexos. A IA permitiu ganhos significativos de tempo na estruturação inicial do plano de aula, na redação de materiais complementares e na elaboração de instrumentos avaliativos, possibilitando ao professor concentrar-se na curadoria, contextualização e validação pedagógica dos conteúdos.
 
-[Assistido por IA]
+Do ponto de vista ético, o projeto foi desenvolvido com atenção à privacidade e à proteção de dados, não utilizando informações pessoais de universitários ou docentes. A transparência foi tratada como elemento central, com a marcação explícita dos trechos assistidos por IA e o registro da revisão humana aplicada, evitando a falsa impressão de autoria exclusivamente humana ou exclusivamente automatizada.
 
-Do ponto de vista ético, a principal preocupação esteve relacionada à **privacidade e à autoria**. Todo o material foi desenvolvido sem uso de dados pessoais, e os conteúdos gerados por IA foram explicitamente sinalizados, garantindo transparência. A revisão humana foi indispensável para assegurar correção conceitual, adequação ao nível acadêmico do 5º semestre e alinhamento com os objetivos da disciplina de Teoria da Contabilidade. Esse processo reforça a ideia de que a IA deve ser compreendida como uma **parceira cognitiva**, e não como fonte autônoma de autoridade científica.
+Outro ganho relevante foi a **personalização do ensino**. A IA facilitou a proposição de adaptações para diferentes perfis de universitários, algo que, na prática docente cotidiana, costuma demandar tempo elevado. Ainda assim, ficou evidente que a IA não substitui o julgamento pedagógico do professor, sendo indispensável para ajustar linguagem, profundidade e carga cognitiva à realidade da turma.
 
-[Assistido por IA]
+Quanto aos riscos, destaca-se a necessidade de cuidado com vieses históricos e eurocêntricos ao tratar da evolução da contabilidade. A IA tende a reproduzir narrativas mais difundidas, exigindo do docente uma postura crítica para ampliar perspectivas e incluir diferentes contextos históricos e culturais.
 
-Outro ganho relevante foi a possibilidade de **personalização da aprendizagem**. A adaptação do mesmo conteúdo para diferentes perfis de universitários — aqueles com dificuldade de leitura e aqueles com maior interesse e desempenho avançado — demonstra como a IA pode apoiar práticas pedagógicas inclusivas e desafiadoras. Essa flexibilidade seria mais difícil de alcançar em curto prazo sem apoio tecnológico, especialmente em contextos de alta carga docente.
-
-[Assistido por IA]
-
-A internacionalização do conteúdo, por meio da tradução para o inglês em nível CEFR A2, também ilustra um uso estratégico da IA. Além de ampliar o acesso ao material, essa prática estimula competências linguísticas e acadêmicas essenciais em um ambiente universitário cada vez mais globalizado. Ainda assim, a tradução exigiu revisão humana para evitar simplificações excessivas ou perdas conceituais.
-
-[Assistido por IA]
-
-Como lição aprendida, destaca-se que o uso responsável da IA na educação requer **planejamento, critérios claros e consciência ética**. A tecnologia amplia possibilidades, mas não substitui o julgamento pedagógico, o conhecimento disciplinar e a sensibilidade didática do professor. Quando utilizada com intencionalidade e transparência, a IA se mostra uma aliada poderosa para inovar o ensino superior, mantendo o foco na aprendizagem significativa e no desenvolvimento crítico dos universitários.
-
-[Assistido por IA]
+Como lição aprendida, reforça-se que a IA deve ser compreendida como **meio**, e não como fim. Seu uso responsável amplia possibilidades didáticas, mas requer intencionalidade pedagógica, revisão humana constante e compromisso com a ética, a autoria e a qualidade do ensino superior. O equilíbrio entre tecnologia e mediação docente mostrou-se essencial para que a IA agregasse valor real ao processo de ensino-aprendizagem.  
+[assistido por IA]
 
 ---
+
+## 👥 Créditos  
+[assistido por IA]
+
+Projeto desenvolvido para fins educacionais, com autoria intelectual e revisão humana do docente responsável, utilizando ferramentas de Inteligência Artificial como apoio pedagógico.
