@@ -56,9 +56,13 @@ Gere um README.md para o repositório IA_em_Sala_de_Aula_Santander_EducaIA conte
 
 ##  Prompt 7 - Auditoria de ética/privacidade e checklist final
 Faça uma auditoria ética do projeto " Evolução Histórica da Contabiliade".
+
 ⦁	Riscos de dados pessoais e estratégias de anonimozação;
+
 ⦁	direitos autorais (necessidade de citação/licença);
+
 ⦁	vieses possíveis em exemplos/atividades e alternativas;
+
 ⦁	registro claro de transparência: onde a IA foi usada e qual foi a revisão humana. Em seguida, entregue um checklist final marcável confirmando:
 - [x] Plano de aula completo com seções e marcações [Assistido por IA]  
 - [x] Materiais didáticos (textos, exercícios e atividade em grupo)  
