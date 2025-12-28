@@ -87,7 +87,7 @@ A aula está inserida na formação teórica do contador, abordando a Contabilid
 
 - 📄 [Plano_de_Aula_IA.docx](Plano_de_Aula_IA.docx)  
 - 📊 [Apresentacao_Aula_IA.pptx](Apresentacao_Aula_IA.pptx)  
-- 📘 [Reflexao_IA.pdf](Reflexao_IA.pdf)
+  
 
 ---
 
